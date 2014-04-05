@@ -52,10 +52,10 @@ id,name,url,facebook,twitter,tel,mail,rssfeed,priceurl,prerss
 429,Trafikverket FR,http://www.trafikverket.se/Farja/,https://www.facebook.com/Trafikverket,,0771 - 65 65 65 ,,,http://www.trafikverket.se/Farja/,
 604,Trosabussen,http://www.trosabussen.se,https://www.facebook.com/pages/Trosabussen/162660497114670,,0156-340 00,info@akerbergstrafik.se,,http://www.akerbergstrafik.se/index.php?option=com_content&view=article&id=25&Itemid=19,
 251,UL,http://www.ul.se,http://www.facebook.com/ULtrafik,,0771-14 14 14,upplysningen@ul.se,,http://www.ul.se/Biljetter/,http://www.ul.se/
-265,Värmlandstrafik,http://www.varmlandstrafik.se/,https://www.facebook.com/Varmlandstrafik,https://twitter.com/varmlandstrafik,0771-32 32 00,info@varmlandstrafik.se,,http://www.varmlandstrafik.se/biljetter-priser-nya,http://www.varmlandstrafik.se/
-279,Västtrafik,http://www.vasttrafik.se/,https://www.facebook.com/Vasttrafik,https://twitter.com/vasttrafik,0771-41 43 00,,,http://www.vasttrafik.se/#!/biljetter-priser/,
+265,Värmlandstrafik,http://www.varmlandstrafik.se/,https://www.facebook.com/Varmlandstrafik,https://twitter.com/varmlandstrafik,0771-32 32 00,info@varmlandstrafik.se,http://www.varmlandstrafik.se/rss.xml,http://www.varmlandstrafik.se/biljetter-priser-nya,http://www.varmlandstrafik.se/
+279,Västtrafik,http://www.vasttrafik.se/,https://www.facebook.com/Vasttrafik,https://twitter.com/vasttrafik,0771-41 43 00,,http://www.vasttrafik.se/rss-kallor/prenumererar-pa-nyheter/,http://www.vasttrafik.se/#!/biljetter-priser/,
 286,Ven-trafiken,http://www.ventrafiken.se/,,,0418-473 473,info@ventrafiken.se,,http://www.ventrafiken.se/index.php/se/tidtabell-och-priser,
-380,Veolia Transport,http://www.veolia-transport.se,,https://twitter.com/VT_Sverige,0771-26 00 00,kundtjanst@veolia-transport.se,,http://www.veolia-transport.se/res-med-oss/komm...,
+380,Snälltåget,http://www.snalltaget.se,,https://twitter.com/VT_Sverige,0771-26 00 00,snalltaget@snalltaget.se,,,
 248,Visingsötrafiken,http://www.visingso.net/farjetrafiken,https://www.facebook.com/pages/Visings%C3%B6trafiken/108907015822205,,036-10 37 70,info@visingso.se,,,
 266,VL,http://www.vl.se/,,,0771-22 40 00, lt.vasteras@lanstrafiken.se,,http://www.vl.se/Vastmanland/Biljetter-och-priser/,http://www.vl.se/Vastmanland/
 320,Waxholmsbolaget,http://www.waxholmsbolaget.se/,https://www.facebook.com/waxholmsbolaget,,08-679 58 30,info@waxholmsbolaget.se,,http://www.waxholmsbolaget.se/resa/skargardstrafiken/valj-biljett/vad-kostar-resan/,http://www.waxholmsbolaget.se/
