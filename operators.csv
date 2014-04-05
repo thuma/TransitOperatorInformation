@@ -1,0 +1,64 @@
+id,name,url,facebook,twitter,tel,mail,rssfeed,priceurl,prerss
+287,Arlanda Express,https://www.arlandaexpress.se/,https://www.facebook.com/arlandaexpress,https://twitter.com/arlanda_express,0771-720 200,info@atrain.se,,https://www.arlandaexpress.se/priser.aspx,https://www.arlandaexpress.se/start.aspx
+805,Blå båtarna,http://www.blabatarna.se/,,,08-7111 457,info@blabatarna.se,,,
+619,Blå Tåget,http://www.blataget.com/,https://www.facebook.com/pages/Skandinaviska-Jernbanor-Blå-Tåget/195740220500768,,0771-501 501,info@blataget.com,,http://www.blataget.com/,http://www.blataget.com/?news=trafikmeddelande-gallande-2122-sept-samt-22-okt
+258,Blekingetrafik,http://www.blekingetrafiken.se/,,,0455-56900,,,http://www.blekingetrafiken.se/Biljetter__priser/,http://www.blekingetrafiken.se/Kundservice/Trafikinformation/
+327,Bus4You,http://www.nettbuss.se/bus4you,https://www.facebook.com/Bus4youSWE,https://twitter.com/bus4you,0771-151515,info@nettbuss.se ,,http://www.nettbuss.se/bus4you,http://www.nettbuss.se/
+267,Dalatrafik,http://www.dalatrafik.se/,https://www.facebook.com/Dalatrafik,https://twitter.com/ab_dalatrafik,0771-95 95 95 ,kundservice@dalatrafik.se,http://pi.thure.org/martin/api/dalatrafikrssinfo.php,http://www.dalatrafik.se/templates/Units/templa...,http://www.dalatrafik.se/templates/Units/templates/dtInfoTravellerDeviationMessages.aspx?id=2087&epslanguage=SV
+270,Destination Gotland,http://www.destinationgotland.se/,https://www.facebook.com/destgotl,https://twitter.com/DestinationGotl,0771-22 33 00,kundservice@destinationgotland.se,,http://www.destinationgotland.se/,
+277,Flygbussarna,http://www.flygbussarna.se,https://www.facebook.com/flygbussarna,,0771- 51 52 52,info@flygbussarna.se,,,
+257,Gotlands kommun,http://www.gotland.se/kollektivtrafiken,,,0498-218 218,registrator-tn@gotland.se,,http://www.gotland.se/1158,
+261,Hallandstrafiken,http://www.hlt.se/,https://www.facebook.com/hallandstrafiken,,0771-33 10 30,,http://www.thure.org/stinsen/api/hltrssinfo.php,http://www.hallandstrafiken.se/biljetter,http://www.thure.org/stinsen/api/hltrssinfo.php
+807,IKEA,http://www.ikea.com/se/sv/store/kurvan/storeInfo,https://www.facebook.com/ikeasverige,,0775-700 500,,,,
+601,Karlstadsbuss,http://karlstad.se/karlstadsbuss/,https://www.facebook.com/karlstadsbuss/info,,054-400 18 19,karlstadsbuss@karlstad.se,,http://karlstad.se/karlstadsbuss/priser-och-biljetter/,
+256,KLT,http://www.klt.se,,,010-2121000,upplysningen@klt.se,http://www.klt.se/Rss/DeviationFeed.aspx?today=1&tomorrow=1&transportModes=7,http://www.klt.se/Din-resa/Resor-inom-Kalmar-lan/Priser-och-biljetter/,http://www.klt.se/Rss/DeviationFeed.aspx?today=1&tomorrow=1&transportModes=7
+249,Kosterbåtarna,http://www.kostermarin.se/,,,0526-20 110,info@kostermarin.se,,http://www.kostermarin.se/Res.htm,
+653,Kustpilen,http://www.klt.se/Din-resa/Att-resa-med-tag/Kustpilen/,,,010-2121000,upplysningen@klt.se,http://www.klt.se/Rss/DeviationFeed.aspx?today=1&tomorrow=1&transportModes=7,http://www.ltnbd.se/priser-biljetter/32/0/,http://www.klt.se/Rss/DeviationFeed.aspx?today=1&tomorrow=1&transportModes=7
+254,Länstrafiken,http://www.jlt.se,https://www.facebook.com/JLTAB,,0771 - 444 333,,,http://www.jlt.se/resande/priser/58528B7C-65F5-...,http://www.jlt.se/om-oss/trafikinformation/
+255,Länstrafiken,http://www.lanstrafikenkron.se,https://www.facebook.com/lanstrafikenkron,,0771-76 70 76,kundcenter@lanstrafikenkron.se,,http://www.lanstrafikenkron.se/priser,http://www.lanstrafikenkron.se/trafikinformation
+269,Länstrafiken,http://www.tabussen.nu/,https://www.facebook.com/tabussen,,0771-100 110,,,http://www.tabussen.nu/,
+269,Länstrafiken,http://www.ltr.se/,https://www.facebook.com/ltr.se,,0771-100 110,,,http://ltr.se/,
+269,Länstrafiken,http://www.dintur.se/,,,0771-100 110,Kundservice@DinTur.se,,http://www.dintur.se/Biljetter-och-priser/,http://www.dintur.se/
+269,Länstrafiken,http://www.ltnbd.se/,,,0771-100 110,kundservice@ltnbd.se,,http://www.ltnbd.se/priser-biljetter/32/0/,
+289,Länstrafiken,http://www.lanstrafiken.se/orebro,,,0771-22 40 00,lt.orebro@lanstrafiken.se,,http://www.lanstrafiken.se/Orebro/Biljetter-och-priser/,
+252,Länstrafiken Sörmland,http://www.lanstrafiken.se/sormland,,,0771-22 40 00,lt.sormland@lanstrafiken.se,,http://www.lanstrafiken.se/Sormland/Biljetter-och-priser/,http://www.lanstrafiken.se/Sormland/
+602,Luleå Lokaltrafik,http://www.llt.lulea.se/,https://www.facebook.com/lltinfo,,077-199 00 00,llt@lulea.se,,http://www.llt.lulea.se/priserkort.4.24f5634112a6bbe247c80006537.html,
+621,Mas-Expressen AB,http://masexpressen.se/,,,0771-135 135,info@masexpressen.se,,http://masexpressen.se/,
+328,Nettbuss express,http://www.nettbuss.se/sok-kop/nettbuss-express,https://www.facebook.com/Nettbussexpress,,0771-151515,info@nettbuss.se ,,http://www.nettbuss.se/,http://www.nettbuss.se/
+809,Nilsbuss,http://www.svenskabuss.se/,https://www.facebook.com/nilsbussab,,0771-67 67 67,info@svenskabuss.se,,http://www.svenskabuss.se/,
+633,Nobina Sverige,http://www.nobina.com/sv/Sverige/,,,08-410 653 00,adm@nobina.se,,,http://www.nobina.com/sv/Sverige/Djurgardsbussen/
+806,Nordlandsbussen,http://www.nbuss.no/,,,,,,,http://www.177nordland.no/index.php?ac_id=280&ac_parent=280&at_id=35
+694,Norrtåg,http://www.norrtag.se/,,,010-1300100,info@norrtag.se,,http://www.norrtag.se/page114054.html,http://www.norrtag.se/aktuell-trafikinfo.html
+76,NSB,http://www.nsb.no,https://www.facebook.com/nsb.no,,(+47) 23 62 00 00,nsb@nsb.no,,,
+229,NSB,http://www.nsb.no,https://www.facebook.com/nsb.no,,(+47) 23 62 00 00,nsb@nsb.no,,,
+300,Öresundståg,http://www.oresundstag.se/,https://www.facebook.com/skanetrafiken,https://twitter.com/skanetrafiken,0771-77 77 77,kundservice@skanetrafiken.se,,http://www.oresundstag.se/sv/Priser-och-regler/,
+584,ÖSlJ,http://www.oslj.nu/,,,0159-210 00,oslj@telia.com,,http://www.oslj.nu/sv/priser/,
+253,Östgötatrafiken,http://www.ostgotatrafiken.se,https://www.facebook.com/ostgotatrafiken,https://twitter.com/ostgotatrafiken,0771 21 10 10,ostgotatrafiken@ostgotatrafiken.se,http://pi.thure.org/martin/api/otrssinfo.php,http://www.ostgotatrafiken.se/Priser--Biljetter/,http://mobil.ostgotatrafiken.se/TrafficInformation.aspx
+630,People Travel Group,http://www.peopletravel.se/,,,08-479 32 34,info@peopletravel.se,,http://www.peopletravel.se/Nacka-Kista/Biljetter_priser.aspx,http://www.peopletravel.se/
+635,Piteå Lokaltrafik,http://www.citybuss.se/,,,0911-917 00,info@citybuss.se﻿,,http://www.citybuss.se/pris-information/,http://www.citybuss.se/trafikmeddelanden/
+618,Ressels Rederi,http://www.ressel.se/,,,08-731 00 25,info@ressel.se,,http://www.ressel.se/tidtabeller/,http://www.ressel.se/just-nu/
+632,Roslagens Sjötrafik,http://www.roslagenssjotrafik.se/,,,0176-85010,info@roslagenssjotrafik.se,,,
+808,Savor Media AB,http://savormedia.se/,,,,info@savormedia.se,,,
+370,Scand Lines,http://www.scandlines.se/,,,042 - 18 60 00,kundservice@scandlines.se,,http://www.scandlines.se/tider-och-priser/biljettyper-och-priser,http://www.scandlines.se/kundservice/trafikinformation
+74,SJ,http://www.sj.se,https://www.facebook.com/sj,https://twitter.com/SJ_AB,0771 – 75 75 75,,,http://www.sj.se/travel/booksearchlocation.form...,http://www.sj.se/
+276,Skånetrafiken,http://www.skanetrafiken.se,https://www.facebook.com/skanetrafiken,https://twitter.com/skanetrafiken,0771-77 77 77,kundservice@skanetrafiken.se ,,http://www.skanetrafiken.se/templates/Informati...,
+275,SL,http://www.sl.se,https://www.facebook.com/KanalSL,,08-600 10 00,,,http://sl.se/sv/Resenar/Valja-biljett/Vara-bilj...,
+647,Stadsbussarna Östersund,http://www.stadsbussarna.se/site/index.php/start,https://www.facebook.com/stadsbussarna,,063-16 12 40,info@stadsbussarna.se,,http://www.stadsbussarna.se/site/index.php/priser-kort-ostersund,http://www.stadsbussarna.se/site/index.php/start
+690,Swebus,http://www.swebus.se,https://www.facebook.com/swebusfans,http://www.twitter.com/Swebus,0771-218 218,kundsupport@swebus.se,,http://www.swebus.se/,http://www.swebus.se/Kundsupport/Trafikinformation/
+586,Tågab,http://www.tagakeriet.se,,,0550 - 875 03,info@tagakeriet.se,,http://www.tagakeriet.se/Reseinformation.htm,http://www.tagakeriet.se/trafikinfo.htm
+612,Tågab,http://www.tagakeriet.se,,,0550 - 875 03,info@tagakeriet.se,,http://www.tagakeriet.se/Reseinformation.htm,http://www.tagakeriet.se/trafikinfo.htm
+613,Tågab tågtaxi,http://www.tagakeriet.se,,,0550 - 875 03,info@tagakeriet.se,,http://www.tagakeriet.se/Reseinformation.htm,http://www.tagakeriet.se/trafikinfo.htm
+315,Tågkompaniet,http://www.tagkompaniet.se/,https://www.facebook.com/Tagkompaniet,,0771-444 111,info@tagkompaniet.se,,http://www.tagkompaniet.se/,
+429,Trafikverket FR,http://www.trafikverket.se/Farja/,https://www.facebook.com/Trafikverket,,0771 - 65 65 65 ,,,http://www.trafikverket.se/Farja/,
+604,Trosabussen,http://www.trosabussen.se,https://www.facebook.com/pages/Trosabussen/162660497114670,,0156-340 00,info@akerbergstrafik.se,,http://www.akerbergstrafik.se/index.php?option=com_content&view=article&id=25&Itemid=19,
+251,UL,http://www.ul.se,http://www.facebook.com/ULtrafik,,0771-14 14 14,upplysningen@ul.se,,http://www.ul.se/Biljetter/,http://www.ul.se/
+265,Värmlandstrafik,http://www.varmlandstrafik.se/,https://www.facebook.com/Varmlandstrafik,https://twitter.com/varmlandstrafik,0771-32 32 00,info@varmlandstrafik.se,,http://www.varmlandstrafik.se/biljetter-priser-nya,http://www.varmlandstrafik.se/
+279,Västtrafik,http://www.vasttrafik.se/,https://www.facebook.com/Vasttrafik,https://twitter.com/vasttrafik,0771-41 43 00,,,http://www.vasttrafik.se/#!/biljetter-priser/,
+286,Ven-trafiken,http://www.ventrafiken.se/,,,0418-473 473,info@ventrafiken.se,,http://www.ventrafiken.se/index.php/se/tidtabell-och-priser,
+380,Veolia Transport,http://www.veolia-transport.se,,https://twitter.com/VT_Sverige,0771-26 00 00,kundtjanst@veolia-transport.se,,http://www.veolia-transport.se/res-med-oss/komm...,
+248,Visingsötrafiken,http://www.visingso.net/farjetrafiken,https://www.facebook.com/pages/Visings%C3%B6trafiken/108907015822205,,036-10 37 70,info@visingso.se,,,
+266,VL,http://www.vl.se/,,,0771-22 40 00, lt.vasteras@lanstrafiken.se,,http://www.vl.se/Vastmanland/Biljetter-och-priser/,http://www.vl.se/Vastmanland/
+320,Waxholmsbolaget,http://www.waxholmsbolaget.se/,https://www.facebook.com/waxholmsbolaget,,08-679 58 30,info@waxholmsbolaget.se,,http://www.waxholmsbolaget.se/resa/skargardstrafiken/valj-biljett/vad-kostar-resan/,http://www.waxholmsbolaget.se/
+268,X-trafik,http://www.x-trafik.se/,https://www.facebook.com/xtrafik,,0771-9 10 10 9,xtrafik@xtrafik.se,,http://ehandel.xtrafik.se/Product/1/138/Vuxen/30-dagarskort,http://www.xtrafik.se/trafikinfo/all
+357,Y-buss,http://www.ybuss.se/,https://www.facebook.com/pages/Ybuss-AB/245940862146408,,0771-33 44 44,info@ybuss.se,,https://portal.ybuss.se/boka/index.asp?id=0,
+361,Hemlig,,,,,,,,
